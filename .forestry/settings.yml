@@ -6,6 +6,11 @@ webhook_url:
 sections:
 - type: directory
   path: ''
+  label: Community
+  create: all
+  match: "**/*"
+- type: directory
+  path: ''
   label: Content
   create: all
   match: "**/*"
