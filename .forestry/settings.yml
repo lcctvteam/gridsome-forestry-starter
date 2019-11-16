@@ -6,12 +6,12 @@ webhook_url:
 sections:
 - type: directory
   path: ''
-  label: Community
+  label: Compensation
   create: all
   match: "**/*"
 - type: directory
   path: ''
-  label: Content
+  label: Community
   create: all
   match: "**/*"
 - type: directory
